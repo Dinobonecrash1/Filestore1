@@ -1,0 +1,17 @@
+{
+    "name": "Smileybotz encode Bot",
+    "description": "A Telegram encode Bot written in Pyrogram by @smiley_bots",
+    "keywords": [
+        "telegram",
+        "Smileybotz",
+        "encode",
+        "bot"
+    ],
+    "stack": "container",
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "Eco"
+        }
+    }
+}
